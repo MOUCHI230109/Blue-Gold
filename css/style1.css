@@ -41,6 +41,7 @@ body {
 
 /* Ajoute des cartes pour encadrer les sujets */
 .card {
+  text-align: justify;
   background-color: white;
   padding: 20px;
   margin-top: 20px;
